@@ -1,0 +1,4 @@
+Bir Firmanın çalışma saatleri “baslangicSaati” ve “bitisSaati” şeklinde veritabanında kayıtlıdır. Girilen bir saat değerini kontrol ederek; 
+-Çalışma saatleri arasında ise “Sipariş Verebilirsiniz” 
+-Çalışma saatleri arasında değil ise “Sipariş Saatleri Dışındayız” 
+şeklinde uyarı yazdıracak bir algoritma tasarlayınız. 
